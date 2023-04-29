@@ -1,0 +1,22 @@
+.back
+{
+    width: 100%;
+    height: 500px;
+    background-image: url("https://lh3.googleusercontent.com/DRDqa5N69sBDAl1_Npa0mtpP4LgGYBlyM6ZVXZTLzegMO-W1lTg2hoigTu3YEnXdyIV-TrFwC0mhMGuato0WTAnv6JB_MLgfJsVBiq0");
+    background-position: center;
+    background-size: cover;
+}
+.content
+{
+    width: 500px;
+    top: 50%;
+    left: 50%;
+    position: relative;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+h1
+{
+    font-size: 2em;
+    
+}
